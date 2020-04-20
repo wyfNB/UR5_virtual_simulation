@@ -1,7 +1,7 @@
 # UR5_virtual_simulation
 Matlab-VREP co-simulation
 
-Simple control of UR5 robot in Matlav and V-REP
+Simple control of UR5 robot in Matlab and V-REP
 
 ##Re-Run the codes
 1.Make sure that remote API documents in the folder: remoteApiProto.m remApi.m remoteApi.dll
